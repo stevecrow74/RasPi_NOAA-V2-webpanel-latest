@@ -1,0 +1,32 @@
+<?php
+return array(
+  "admin" => "Admin",
+  "admin_delete_confirm_header" => "Are You Sure",
+  "admin_capture_delete_warning" => "Click the 'X' and it's Gone",
+  "admin_pass_delete_warning" => "Click the 'X' and it's Gone",
+  "cancel" => "Cancel",
+  "captures" => "Captures",
+  "confirm" => "Confirm",
+  "conflicting_pass" => "Conflict with previous pass",
+  "elev" => "Elevation",
+  "enhancement" => "Enhancement",
+  "fail_delete_missing_id" => "Failed to delete - missing 'id' parameter",
+  "gain" => "Gain",
+  "image" => "Image",
+  "images" => "Images",
+  "max_elev" => "Max Elevation",
+  "next" => "Next",
+  "of" => "of",
+  "page" => "Page",
+  "pass_end" => "Pass End",
+  "pass_start" => "Pass Start",
+  "pass_start_azimuth" => "Azimuth",
+  "passes" => "Passes",
+  "prev" => "Prev",
+  "satellite" => "Satellite",
+  "successful_delete_capture" => "It's Gone",
+  "successful_delete_pass" => "Bye Bye!",
+  "travel_direction" => "Direction",
+  "home" => "Home"
+);
+?>

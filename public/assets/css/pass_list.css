@@ -1,0 +1,49 @@
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    height: auto;
+    background-color: blue;
+    background-image:
+     linear-gradient(
+       #000000, #1300bf
+);
+      
+}
+
+
+div#satvis {
+  width: 100%;
+  height: 500px;
+}
+
+div#satvis iframe {
+  border: 0;
+  width: 100%;
+  height: 100%;
+}
+
+table#passes tr td.conflict i.conflict-icon {
+  color: #ec5645;
+}
+
+table#passes tr.inactive td.conflict i.conflict-icon {
+  color: cyan;
+}
+
+table#passes {
+  color: yellow;
+}
+
+
+table#passes tr.inactive {
+  color: red;
+}
+
+table#passes td.no-passes {
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  color: cyan;
+
+}
